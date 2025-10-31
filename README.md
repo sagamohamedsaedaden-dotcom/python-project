@@ -30,7 +30,7 @@ I incorporated these essential Python libraries:
 
 To identify the most in-demand skills for the top 3 most popular data roles, I filtered the job postings to focus on the most common positions and extracted the top 5 skills for each of these roles. This analysis highlights the most popular job titles and their key skills, helping me prioritize which skills to focus on depending on the role I am targeting.
 
-View my notebook with detailed steps here:[Skill_Demand](project_1\2_skills_count.ipynb)
+View my notebook with detailed steps here:[Skill_Demand](project_1/2_skills_count.ipynb)
 
 ### Visualize Data
 
@@ -59,7 +59,7 @@ plt.show()
 
 ## 2. how are in-demand skills trending for data analysts?
 
-view my notebook with detailed steps here: [skill_trend](project_1\skill_trend.ipynb)
+view my notebook with detailed steps here: [skill_trend](project_1/skill_trend.ipynb)
 
 ### Visualize Data
 
@@ -91,7 +91,7 @@ Bar graph visualizing the trending top skills for data analysts in US
 
 To conduct a salary analysis for data nerds—or, in other words, to identify the highest-paying roles and skills—I focused only on jobs in the United States and examined their median salaries. First, I looked at the salary distributions of common data jobs to get an idea of which ones pay the most
 
-View my notebook with detailed steps here:[Salary_Analysis]()
+View my notebook with detailed steps here:[Salary_Analysis](project_1/salary_analysis.ipynb)
 
 ### Visualize Data
 
@@ -144,7 +144,7 @@ Two seprate bar graphs visualiztion the highest paid skills and most in_demand s
 
 To identify the most optimal skills to learn I calculated the percent of skill demand and the median salary of these skills
 
-View my notebook with detailed steps here:[Optimal_Skills](project_1\images\most_optimal_skills.png)
+View my notebook with detailed steps here:[Optimal_Skills](project_1/optimal_skills.ipynb)
 
 ### Visualize Data
 
