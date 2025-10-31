@@ -45,7 +45,7 @@ plt.show()
 
 #### Results
 
-![2_skills_count.ipynb](images\output.png)
+![2_skills_count.ipynb](project_1/images/output.png)
 
 - Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.
 
@@ -78,7 +78,7 @@ plt.show()
 
 #### results
 
-![skill_trend](images\skills_trend.png)
+![skill_trend](project_1/images/skills_trend.png)
 Bar graph visualizing the trending top skills for data analysts in US
 
 #### insights
@@ -105,7 +105,7 @@ plt.show()
 
 #### results
 
-![salary_distrubution for data jobs in US](images\salary_distribution.png)
+![salary_distrubution for data jobs in US](project_1/images/salary_distribution.png)
 
 - box plot visulizing salary_distrubution for the top 6
   data jobs titles .
@@ -128,7 +128,7 @@ sns.barplot(data=df_DA_skills,x='median',y=df_DA_skills.index,ax=ax[1],hue='medi
 
 #### results
 
-![highest paid and most demand skills](images\highest_paid__most_demand_skill.png)
+![highest paid and most demand skills](project_1/images/highest_paid__most_demand_skill.png)
 
 Two seprate bar graphs visualiztion the highest paid skills and most in_demand skills for data analysts in US
 
@@ -158,7 +158,7 @@ sns.despine()
 
 #### Results
 
-![optimal skill  for Data Analyts in US](images\most_optimal_skills.png)
+![optimal skill  for Data Analyts in US](project_1/images/most_optimal_skills.png)
 
 #### insights
 
